@@ -1,0 +1,14 @@
+
+
+export AZURE_ENTITY_SEARCH_KEY={your service key}
+export AZURE_WEB_SEARCH_KEY={your service key}
+export AZURE_VIDEO_SEARCH_KEY={your service key}
+export AZURE_NEWS_SEARCH_KEY={your service key}
+export AZURE_IMAGE_SEARCH_KEY={your service key}
+export AZURE_CUSTOM_SEARCH_KEY={your service key}
+ export AZURE_VISUAL_SEARCH_KEY={your service key}
+export AZURE_SPELL_CHECK_KEY={your service key}
+export AZURE_COMPUTER_VISION_KEY={your service key}
+export AZURE_CONTENT_MODERATOR_KEY={your service key}
+export AZURE_CUSTOM_VISION_TRAINING_KEY={your service key}
+export AZURE_CUSTOM_VISION_PREDICTION_KEY={your service key}
